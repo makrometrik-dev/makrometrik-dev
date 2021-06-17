@@ -1,0 +1,5 @@
+- 👋  Hi, I’m @makrometric-dev
+- :pushpin: I’m interested in building dApps and web3Apps
+- :bulb: I’m currently learning ReactJS, Solidity and Javascript
+- :eyes: I’m looking to collaborate on Blockchain Projects based on EVM
+- 📫  shoot me a message github@makrometrik.at
