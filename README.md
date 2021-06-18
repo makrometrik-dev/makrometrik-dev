@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @makrometric-dev
+- 👋  Hi, I’m @makrometric-dev, based in Vienna/ Austria :austria:	
 - :pushpin: I’m interested in building dApps and web3Apps
 - :bulb: I’m currently learning ReactJS, Solidity and Javascript
 - :eyes: I’m looking to collaborate on Blockchain Projects based on EVM
