@@ -10,7 +10,7 @@
 
 :eyes: I’m looking to collaborate on Blockchain Projects based on EVM
 
-:eyes: I also look for interesting business relationships 
+:eyes: I also look for interesting business contacts 
 
 
 📫  so shoot me a message github@makrometrik.at if you like 👍
