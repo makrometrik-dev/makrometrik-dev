@@ -1,6 +1,7 @@
 👋  Hi, I’m @makrometrik-dev
 
-:pushpin: I’m interested in building dApps, web3Apps and "normal" webapplications with HTML, PHP, jquery and SQL
+:pushpin: I’m interested in building dApps, web3Apps 
+and "normal" webapplications with HTML, PHP, jquery and SQL
 
 :pushpin: I also do some backend work for FiveM ESX Server including lua scripting and mariadb management
  
