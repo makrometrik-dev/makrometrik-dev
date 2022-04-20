@@ -16,7 +16,8 @@
 📫  shoot me a message github@makrometrik.at if you like 👍
 
 
-**Websites** (in german)
+
+**Websites** (german language)
 
 [ℹ️ my Freelancing Website ](https://fgr.digital)
 
