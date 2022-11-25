@@ -2,9 +2,9 @@
 
 :pushpin: I’m providing marketniche- and positioning-strategies
 
-:pushpin: Therefore I built Webapplications, Websites and Webshops
+:pushpin: Therefore I built Webapplications, Websites and Webshops, implement specific parts of Branding- and other supporting Consulting-Activities
 
-:bulb: I’m using HTML,PHP, jquery and SQL and try to improve my Python and VanillaJS Skills
+:bulb: My Stack contains AP,AI, Wordpress, HTML,PHP, jquery and SQL and try to improve my Python and VanillaJS Skills
 
 🔦  Since i was employed there for over 13 years, i am particularly specialized in projects in the healthcare sector
  
