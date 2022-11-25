@@ -1,22 +1,14 @@
-👋  Hi, I’m Florian - a Webdeveloper based in Austria/Vienna
+👋  Hi, I’m Florian - a self-employed Webdeveloper based in Austria/Vienna
 
-:pushpin: I’m interested in web3Apps, digital Twins and IoT Projects 
+:pushpin: I’m providing marketniche- and positioning-strategies
 
-:pushpin: I built "common" webapplications based on HTML,PHP, jquery and SQL but since 2021:
+:pushpin: Therefore I built Webapplications, Websites and Webshops
 
-:bulb: I’m using Python, ReactJS and Solidity and try to improve my Vanilla JS
+:bulb: I’m using HTML,PHP, jquery and SQL and try to improve my Python and VanillaJS Skills
 
-:eyes: I’m looking for good Ideas and Opportunities to collaborate on Blockchain Projects based on EVM
-
-🔦  I’m always interested in good Ideas and Solutions in Healthcare Management and digital Patient Handling
+🔦  Since i was employed there for over 13 years, i am particularly specialized in projects in the healthcare sector
  
 :eyes: I’m also open for business contacts 
 
 
 📫  shoot me a message github@makrometrik.at if you like 👍
-
-
-
-**Websites** (german language)
-
-[ℹ️ my Website ](https://makrometrik.at)
