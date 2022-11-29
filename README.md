@@ -1,14 +1,12 @@
-👋  Hi, I’m Florian - a self-employed Webdeveloper based in Austria/Vienna
+👋  Hi, I’m Florian - a One-Man Businessowner based in Austria/Vienna
 
-:pushpin: I’m providing marketniche- and positioning-strategies
+:pushpin: I'm providing brand positioning workshops and 1:1 Consulting to my clients 
 
-:pushpin: Therefore I built Webapplications, Websites and Webshops, implement specific parts of Branding- and other supporting Consulting-Activities
+:pushpin: Project related I'm designing Webapplications, Websites and Webshops
 
-:bulb: My Stack contains AP,AI, Wordpress, HTML,PHP, jquery and SQL and try to improve my Python and VanillaJS Skills
-
-🔦  Since i was employed there for over 13 years, i am particularly specialized in projects in the healthcare sector
+🔦  Since i was employed there for over 13 years, i am specialized in projects in the healthcare sector
  
-:eyes: I’m also open for business contacts 
+:eyes: I’m always open for interesting business contacts
 
 
 📫  shoot me a message github@makrometrik.at if you like 👍
