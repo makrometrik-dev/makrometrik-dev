@@ -2,7 +2,7 @@
 
 💡 I'm providing branding strategy workshops and 1:1 Consulting to my clients 
 
-💻 Project related I'm designing Webapplications, Websites and Webshops
+💻 Project related I'm designing parts of the Visual Identity and Touchpoints like Websites and Socialmedia Templates
 
 🩺  Since i was employed there for over 13 years, i am specialized in projects in the healthcare sector
  
