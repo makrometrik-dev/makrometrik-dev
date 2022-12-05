@@ -1,6 +1,6 @@
 👋  Hi, I’m Florian - a One-Man Businessowner based in Austria/Vienna
 
-:pushpin: I'm providing brand positioning workshops and 1:1 Consulting to my clients 
+:pushpin: I'm providing branding strategy workshops and 1:1 Consulting to my clients 
 
 :pushpin: Project related I'm designing Webapplications, Websites and Webshops
 
