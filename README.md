@@ -1,4 +1,4 @@
-👋  Hi, I’m Florian - a One-Man Businessowner based in Austria/Vienna
+👋  Hi, I’m Florian - a One-Man-Businessowner based in Austria/Vienna
 
 :pushpin: I'm providing branding strategy workshops and 1:1 Consulting to my clients 
 
